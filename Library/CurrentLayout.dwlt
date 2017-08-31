@@ -71,7 +71,7 @@ MonoBehaviour:
   m_MinSize: {x: 917, y: 342}
   m_MaxSize: {x: 22012, y: 10021}
   vertical: 0
-  controlID: 150
+  controlID: 48
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 342}
   m_MaxSize: {x: 8006, y: 8042}
   vertical: 1
-  controlID: 75
+  controlID: 49
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -584,23 +584,23 @@ MonoBehaviour:
     height: 565
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e8250000
-    m_LastClickedID: 9704
-    m_ExpandedIDs: e6fbffff00000000ac250000e8250000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: e6fbffff00000000ac250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: MissionBlockMother
+      m_OriginalName: MissionBlockMother
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 9688
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -636,14 +636,14 @@ MonoBehaviour:
     width: 612
     height: 565
   m_SceneLighting: 1
-  lastFramingTime: 4511.268270312859
+  lastFramingTime: 16.775542251542095
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 13.463266, y: 5.224085, z: -42.487713}
+    m_Target: {x: -0.2832632, y: 4.9527063, z: -16.667336}
     speed: 2
-    m_Value: {x: 13.463266, y: 5.224085, z: -42.487713}
+    m_Value: {x: -0.2832632, y: 4.9527063, z: -16.667336}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -670,9 +670,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.06976796, y: 0.92839676, z: -0.22602522, w: 0.28657392}
   m_Size:
-    m_Target: 38.81191
+    m_Target: 8.784205
     speed: 2
-    m_Value: 38.81191
+    m_Value: 8.784205
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -682,7 +682,7 @@ MonoBehaviour:
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
-  m_ViewIsLockedToObject: 0
+  m_ViewIsLockedToObject: 1
 --- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
